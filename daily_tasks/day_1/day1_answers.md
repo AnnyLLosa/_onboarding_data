@@ -1,8 +1,8 @@
 ## **DAY 1: New-York School Incident Analysis**
-[Click here to access the google sheet](https://docs.google.com/spreadsheets/d/1jxYMY0vOYIAVC_lp9dqdB5SPnV2qi6RHUEiZqyBMTK4/edit?usp=sharing)
+[Click here to access the google sheet](https://docs.google.com/spreadsheets/d/1jxYMY0vOYIAVC_lp9dqdB5SPnV2qi6RHUEiZqyBMTK4/edit?gid=1463992344#gid=1463992344)
 ### Answers:
-- Q1. Total rows: 6311
-- Q2. Unique schools: 1369
+- Q1. Total rows: 6310
+- Q2. Unique schools: 1890
 - Q3. Most frequent incident type: “NoCrim N”
 - Q4. Bronx incident %: 28.24%
 ### Insight / Anomalies:
