@@ -2,9 +2,9 @@
 🔗 [My Google Sheet](https://docs.google.com/spreadsheets/d/1R31jjubI8eQxHresXzamSroInppBE-7z-TkWJVsyjo0/edit?usp=sharing)
 ### Answers:
 - how many total rows are there?: 6310
-- how many unique schools are listed?: 11
+- how many unique schools are listed?: 1890
 - frequent incident type: “number of non-criminal crimes(nocrim_n)”
-- % of incidents occurred in the Bronx %: 24.67%
+- % of incidents occurred in the Bronx %: 28.29%
 
 ### Incident Trend Analysis (2013–2016):
 - The data reveals a clear divergence in school safety trends over the three-year period:
